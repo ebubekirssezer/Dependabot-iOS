@@ -19,7 +19,7 @@ let package = Package(
         .package(url: "https://github.com/sendbird/sendbird-chat-sdk-ios", exact: "4.12.3"),
         .package(url: "https://github.com/hmlongco/Factory.git", exact: "2.3.1"),
         .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "4.9.1"),
-        .package(url: "https://github.com/krzysztofzablocki/Inject.git", exact: "1.2.4")
+        .package(url: "https://github.com/krzysztofzablocki/Inject.git", exact: "1.3.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
