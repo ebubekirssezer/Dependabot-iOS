@@ -18,7 +18,7 @@ let package = Package(
         .package(url: "https://github.com/kean/Nuke.git", exact: "12.4.0"),
         .package(url: "https://github.com/sendbird/sendbird-chat-sdk-ios", exact: "4.12.3"),
         .package(url: "https://github.com/hmlongco/Factory.git", exact: "2.3.1"),
-        .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "4.9.1"),
+        .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "5.8.1"),
         .package(url: "https://github.com/krzysztofzablocki/Inject.git", exact: "1.2.4")
     ],
     targets: [
