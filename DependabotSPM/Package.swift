@@ -21,7 +21,7 @@ let package = Package(
         .package(url: "https://github.com/marmelroy/PhoneNumberKit.git", exact: "3.5.9"),
         .package(url: "https://github.com/joeldev/JLRoutes.git", exact: "2.1.1"),
         .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "4.9.1"),
-        .package(url: "https://github.com/Tealium/tealium-swift.git", exact: "2.4.6")
+        .package(url: "https://github.com/Tealium/tealium-swift.git", exact: "2.12.2")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
