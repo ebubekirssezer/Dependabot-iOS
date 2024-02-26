@@ -21,16 +21,7 @@ let package = Package(
         .package(url: "https://github.com/marmelroy/PhoneNumberKit.git", exact: "3.5.9"),
         .package(url: "https://github.com/joeldev/JLRoutes.git", exact: "2.1.1"),
         .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "4.9.1"),
-        .package(url: "https://github.com/Tealium/tealium-swift.git", exact: "2.4.6"),
-        .package(url: "https://github.com/youtube/youtube-ios-player-helper.git", exact: "1.0.4"),
-        .package(url: "https://github.com/apollographql/apollo-ios.git", exact: "1.8.0"),
-        .package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", exact: "5.0.1"),
-        .package(url: "https://github.com/kean/Nuke.git", exact: "10.4.1"),
-        .package(url: "https://github.com/openid/AppAuth-iOS.git", exact: "1.6.2"),
-        .package(url: "https://github.com/sendbird/sendbird-chat-sdk-ios.git", exact: "4.12.3"),
-        .package(url: "https://github.com/vtourraine/AcknowList.git", exact: "3.0.1"),
-        .package(url: "https://github.com/devicekit/DeviceKit.git", exact: "5.0.0"),
-        .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", exact: "10.3.0")
+        .package(url: "https://github.com/Tealium/tealium-swift.git", exact: "2.4.6")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
@@ -48,15 +39,7 @@ let package = Package(
                 .product(name: "Alamofire", package: "Alamofire"),
                 .product(name: "TealiumCore", package: "tealium-swift"),
                 .product(name: "TealiumTagManagement", package: "tealium-swift"),
-                .product(name: "YouTubeiOSPlayerHelper", package: "youtube-ios-player-helper"),
-                .product(name: "Apollo", package: "apollo-ios"),
-                .product(name: "SwiftyJSON", package: "SwiftyJSON"),
-                .product(name: "Nuke", package: "Nuke"),
-                .product(name: "AppAuth", package: "AppAuth-iOS"),
-                .product(name: "SendbirdChatSDK", package: "sendbird-chat-sdk-ios"),
-                .product(name: "AcknowList", package: "AcknowList"),
-                .product(name: "DeviceKit", package: "DeviceKit"),
-                .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads")
+                .product(name: "YouTubeiOSPlayerHelper", package: "youtube-ios-player-helper")
             ]
         ),
         .target(
