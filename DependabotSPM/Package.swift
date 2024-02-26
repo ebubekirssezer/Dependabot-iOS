@@ -22,8 +22,7 @@ let package = Package(
         .package(url: "https://github.com/joeldev/JLRoutes.git", exact: "2.1.1"),
         .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "4.9.1"),
         .package(url: "https://github.com/Tealium/tealium-swift.git", exact: "2.4.6"),
-        .package(url: "https://github.com/apollographql/apollo-ios.git", exact: "1.8.0"),
-        .package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", exact: "5.0.1")
+        .package(url: "https://github.com/apollographql/apollo-ios.git", exact: "1.8.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
@@ -41,8 +40,7 @@ let package = Package(
                 .product(name: "Alamofire", package: "Alamofire"),
                 .product(name: "TealiumCore", package: "tealium-swift"),
                 .product(name: "TealiumTagManagement", package: "tealium-swift"),
-                .product(name: "Apollo", package: "apollo-ios"),
-                .product(name: "SwiftyJSON", package: "SwiftyJSON")
+                .product(name: "Apollo", package: "apollo-ios")
             ]
         ),
         .target(
