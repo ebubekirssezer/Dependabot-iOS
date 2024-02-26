@@ -19,6 +19,15 @@
       }
     },
     {
+      "identity" : "apollo-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apollographql/apollo-ios",
+      "state" : {
+        "revision" : "ff54632b8740ecfb858bae4630d822e615c7ef1c",
+        "version" : "1.8.0"
+      }
+    },
+    {
       "identity" : "app-check",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/google/app-check.git",
@@ -226,6 +235,15 @@
       }
     },
     {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "revision" : "4d543d811ee644fa4cc4bfa0be996b4dd6ba0f54",
+        "version" : "0.13.3"
+      }
+    },
+    {
       "identity" : "swift-log",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-log",
@@ -253,12 +271,30 @@
       }
     },
     {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
+      "state" : {
+        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+        "version" : "5.0.1"
+      }
+    },
+    {
       "identity" : "tealium-swift",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Tealium/tealium-swift.git",
       "state" : {
         "revision" : "6f726c76be6e3fc3a699de6a97ab9691b0d16dcf",
         "version" : "2.4.6"
+      }
+    },
+    {
+      "identity" : "youtube-ios-player-helper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/youtube/youtube-ios-player-helper.git",
+      "state" : {
+        "revision" : "f57129cd4380ec0a74dd3a59da3270a1d653d59b",
+        "version" : "1.0.4"
       }
     }
   ],
