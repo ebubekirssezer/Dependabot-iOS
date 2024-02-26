@@ -10,30 +10,12 @@
       }
     },
     {
-      "identity" : "acknowlist",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/vtourraine/AcknowList.git",
-      "state" : {
-        "revision" : "7cf70f24c97e86f1321f25ec24d128c1542eb7ef",
-        "version" : "3.0.1"
-      }
-    },
-    {
       "identity" : "alamofire",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Alamofire/Alamofire.git",
       "state" : {
         "revision" : "747c8db8d57b68d5e35275f10c92d55f982adbd4",
         "version" : "4.9.1"
-      }
-    },
-    {
-      "identity" : "apollo-ios",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apollographql/apollo-ios",
-      "state" : {
-        "revision" : "ff54632b8740ecfb858bae4630d822e615c7ef1c",
-        "version" : "1.8.0"
       }
     },
     {
@@ -46,30 +28,12 @@
       }
     },
     {
-      "identity" : "appauth-ios",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/openid/AppAuth-iOS.git",
-      "state" : {
-        "revision" : "71cde449f13d453227e687458144bde372d30fc7",
-        "version" : "1.6.2"
-      }
-    },
-    {
       "identity" : "cocoalumberjack",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/CocoaLumberjack/CocoaLumberjack.git",
       "state" : {
         "revision" : "af4973721172dd7850a42a58a9ffcec0ec82e5a9",
         "version" : "3.8.4"
-      }
-    },
-    {
-      "identity" : "devicekit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/devicekit/DeviceKit.git",
-      "state" : {
-        "revision" : "691fe8112cca20ebf0020a1709d4e0205400311c",
-        "version" : "5.0.0"
       }
     },
     {
@@ -199,15 +163,6 @@
       }
     },
     {
-      "identity" : "nuke",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/kean/Nuke.git",
-      "state" : {
-        "revision" : "0db18dd34998cca18e9a28bcee136f84518007a0",
-        "version" : "10.4.1"
-      }
-    },
-    {
       "identity" : "okta-devices-swift",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/okta/okta-devices-swift.git",
@@ -271,39 +226,12 @@
       }
     },
     {
-      "identity" : "sqlite.swift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/stephencelis/SQLite.swift.git",
-      "state" : {
-        "revision" : "4d543d811ee644fa4cc4bfa0be996b4dd6ba0f54",
-        "version" : "0.13.3"
-      }
-    },
-    {
       "identity" : "swift-log",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-log",
       "state" : {
         "revision" : "e97a6fcb1ab07462881ac165fdbb37f067e205d5",
         "version" : "1.5.4"
-      }
-    },
-    {
-      "identity" : "swift-package-manager-google-mobile-ads",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
-      "state" : {
-        "revision" : "886501bfff8bd8cc22899de2c1779e479c96f9ff",
-        "version" : "10.3.0"
-      }
-    },
-    {
-      "identity" : "swift-package-manager-google-user-messaging-platform",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
-      "state" : {
-        "revision" : "668673ea23b3e71b9f2540d8fb9464c4dc32ecc0",
-        "version" : "2.2.0"
       }
     },
     {
@@ -325,30 +253,12 @@
       }
     },
     {
-      "identity" : "swiftyjson",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
-      "state" : {
-        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
-        "version" : "5.0.1"
-      }
-    },
-    {
       "identity" : "tealium-swift",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Tealium/tealium-swift.git",
       "state" : {
         "revision" : "6f726c76be6e3fc3a699de6a97ab9691b0d16dcf",
         "version" : "2.4.6"
-      }
-    },
-    {
-      "identity" : "youtube-ios-player-helper",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/youtube/youtube-ios-player-helper.git",
-      "state" : {
-        "revision" : "f57129cd4380ec0a74dd3a59da3270a1d653d59b",
-        "version" : "1.0.4"
       }
     }
   ],

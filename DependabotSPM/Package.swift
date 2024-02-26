@@ -38,8 +38,7 @@ let package = Package(
                 .product(name: "JLRoutes", package: "JLRoutes"),
                 .product(name: "Alamofire", package: "Alamofire"),
                 .product(name: "TealiumCore", package: "tealium-swift"),
-                .product(name: "TealiumTagManagement", package: "tealium-swift"),
-                .product(name: "YouTubeiOSPlayerHelper", package: "youtube-ios-player-helper")
+                .product(name: "TealiumTagManagement", package: "tealium-swift")
             ]
         ),
         .target(
