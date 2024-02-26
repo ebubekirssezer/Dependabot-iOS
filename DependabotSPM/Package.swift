@@ -18,7 +18,7 @@ let package = Package(
         .package(url: "https://github.com/pointfreeco/swift-snapshot-testing.git", exact: "1.11.0"),
         .package(url: "https://github.com/adjust/ios_sdk.git", exact: "4.37.0"),
         .package(url: "https://github.com/okta/okta-devices-swift.git", exact: "1.1.2"),
-        .package(url: "https://github.com/marmelroy/PhoneNumberKit.git", exact: "3.5.9"),
+        .package(url: "https://github.com/marmelroy/PhoneNumberKit.git", exact: "3.7.8"),
         .package(url: "https://github.com/joeldev/JLRoutes.git", exact: "2.1.1"),
         .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "4.9.1"),
         .package(url: "https://github.com/Tealium/tealium-swift.git", exact: "2.4.6")
