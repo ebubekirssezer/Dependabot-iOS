@@ -56,6 +56,8 @@ let package = Package(
                 .product(name: "PhoneNumberKit", package: "PhoneNumberKit"),
                 .product(name: "JLRoutes", package: "JLRoutes"),
                 .product(name: "Alamofire", package: "Alamofire"),
+                .product(name: "TealiumCore", package: "tealium-swift"),
+                .product(name: "TealiumTagManagement", package: "tealium-swift"),
                 .product(name: "YouTubeiOSPlayerHelper", package: "youtube-ios-player-helper"),
                 .product(name: "Apollo", package: "apollo-ios"),
                 .product(name: "SwiftyJSON", package: "SwiftyJSON"),
@@ -64,22 +66,7 @@ let package = Package(
                 .product(name: "SendbirdChatSDK", package: "sendbird-chat-sdk-ios"),
                 .product(name: "AcknowList", package: "AcknowList"),
                 .product(name: "DeviceKit", package: "DeviceKit"),
-                .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
-                .product(name: "GoogleTagManager", package: "google-tag-manager-ios-sdk"),
-                .product(name: "Optimizely", package: "swift-sdk"),
-                .product(name: "JWTDecode", package: "JWTDecode.swift"),
-                .product(name: "MagazineLayout", package: "MagazineLayout"),
-                .product(name: "JVFloatLabeledTextField", package: "JVFloatLabeledTextField"),
-                .product(name: "Mussel", package: "Mussel"),
-                .product(name: "Inject", package: "Inject"),
-                .product(name: "AsyncAlgorithms", package: "swift-async-algorithms"),
-                .product(name: "ContentsquareModule", package: "CS_iOS_SDK"),
-                .product(name: "FirebaseAnalytics", package: "firebase-ios-sdk"),
-                .product(name: "FirebaseCrashlytics", package: "firebase-ios-sdk"),
-                .product(name: "FirebaseInAppMessaging-Beta", package: "firebase-ios-sdk"),
-                .product(name: "FirebaseInstallations", package: "firebase-ios-sdk"),
-                .product(name: "TealiumCore", package: "tealium-swift"),
-                .product(name: "TealiumTagManagement", package: "tealium-swift")
+                .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads")
             ]
         ),
         .target(
