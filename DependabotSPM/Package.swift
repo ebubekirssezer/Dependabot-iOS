@@ -30,17 +30,7 @@ let package = Package(
         .package(url: "https://github.com/sendbird/sendbird-chat-sdk-ios.git", exact: "4.12.3"),
         .package(url: "https://github.com/vtourraine/AcknowList.git", exact: "3.0.1"),
         .package(url: "https://github.com/devicekit/DeviceKit.git", exact: "5.0.0"),
-        .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", exact: "10.3.0"),
-        .package(url: "https://github.com/firebase/firebase-ios-sdk.git", exact: "10.21.0"),
-        .package(url: "https://github.com/googleanalytics/google-tag-manager-ios-sdk.git", exact: "7.4.3"),
-        .package(url: "https://github.com/optimizely/swift-sdk.git", exact: "4.0.0"),
-        .package(url: "https://github.com/auth0/JWTDecode.swift.git", exact: "3.1.0"),
-        .package(url: "https://github.com/airbnb/MagazineLayout.git", exact: "1.6.11"),
-        .package(url: "https://github.com/jverdi/JVFloatLabeledTextField.git", exact: "1.2.5"),
-        .package(url: "https://github.com/ContentSquare/CS_iOS_SDK.git", exact: "4.26.0"),
-        .package(url: "https://github.com/UrbanCompass/Mussel.git", exact: "1.0.0"),
-        .package(url: "https://github.com/krzysztofzablocki/Inject.git", exact: "1.2.4"),
-        .package(url: "https://github.com/apple/swift-async-algorithms.git", exact: "1.0.0")
+        .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", exact: "10.3.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
