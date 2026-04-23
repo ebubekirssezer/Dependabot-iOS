@@ -13,7 +13,7 @@ let package = Package(
             targets: ["DependabotSPM"])
     ],
     dependencies: [
-        .package(url: "https://github.com/hmlongco/Factory.git", exact: "2.3.1"),
+        .package(url: "https://github.com/hmlongco/Factory.git", exact: "2.5.3"),
         .package(url: "https://github.com/sendbird/sendbird-uikit-ios-spm.git", exact: "3.16.1"),
         .package(url: "https://github.com/pointfreeco/swift-snapshot-testing.git", exact: "1.11.0"),
         .package(url: "https://github.com/adjust/ios_sdk.git", exact: "4.37.0"),
